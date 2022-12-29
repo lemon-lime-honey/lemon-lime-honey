@@ -1,1 +1,1 @@
-![lemon-lime-honey](image\github-header-image.png)
+![lemon-lime-honey](https://github.com/lemon-lime-honey/lemon-lime-honey/blob/main/image/github-header-image.png)
