@@ -1,8 +1,7 @@
 [![lemon-lime-honey](/image/header.png)](https://github.com/lemon-lime-honey)
 
-$\text{From}\ \text{\color{blue}{Republic of Korea}}$
-
-$\text{Studied at}\ \text{\color{cyan}{SKKU EEE}}$
+From :kr: Republic of Korea<br>
+Studied at :zap: SKKU EEE
 
 ---
 
@@ -30,16 +29,19 @@ $\text{Studied at}\ \text{\color{cyan}{SKKU EEE}}$
     <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-fff700?style=flat-square&logo=arduino&logoColor=00979d">
     <a href="https://www.blogger.com"><img src="https://img.shields.io/badge/Blogger-fff700?style=flat-square&logo=blogger&logoColor=ff5722">
     <a href="https://brave.com"><img src="https://img.shields.io/badge/Brave-fff700?style=flat-square&logo=brave&logoColor=fb542b">
-    <a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/C-fff700?style=flat-square&logo=c&logoColor=a8b9cc">
+    <a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/C-fff700?style=flat-square&logo=c&logoColor=1572B6">
+    <a href="https://www.w3.org/TR/CSS/"><img src="https://img.shields.io/badge/CSS-fff700?style=flat-square&logo=css3&logoColor=1572B6">
     <a href="https://exercism.org"><img src="https://img.shields.io/badge/Exercism-fff700?style=flat-square&logo=exercism&logoColor=009cab">
     <a href="https://fandom.com"><img src="https://img.shields.io/badge/Fandom-fff700?style=flat-square&logo=fandom&logoColor=fa005a">
     <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-fff700?style=flat-square&logo=git&logoColor=f05032">
+    <a href="https://www.w3.org/"><img src="https://img.shields.io/badge/HTML-fff700?style=flat-square&logo=html5&logoColor=E34F26">
     <br>
     <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-aeff6e?style=flat-square&logo=gnubash&logoColor=4eaa25">
     <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-aeff6e?style=flat-square&logo=jupyter&logoColor=f37626">
     <a href="https://www.khanacademy.org/"><img src="https://img.shields.io/badge/Khan%20Academy-aeff6e?style=flat-square&logo=khanacademy&logoColor=14bf96">
     <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-aeff6e?style=flat-square&logo=latex&logoColor=008080">
     <a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/Markdown-aeff6e?style=flat-square&logo=markdown&logoColor=000000">
+    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-aeff6e?style=flat-square&logo=mysql&logoColor=4479A1">
     <a href="https://notepad-plus-plus.org/"><img src="https://img.shields.io/badge/Notepad++-aeff6e?style=flat-square&logo=notepadplusplus&logoColor=90e59a">
     <a href="https://www.notion.so"><img src="https://img.shields.io/badge/Notion-aeff6e?style=flat-square&logo=notion&logoColor=000000">
     <a href="https://www.meta.com/quest"><img src="https://img.shields.io/badge/Quest-aeff6e?style=flat-square&logo=oculus&logoColor=1c1e20">
