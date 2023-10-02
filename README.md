@@ -1,6 +1,7 @@
 [![lemon-lime-honey](/image/header.png)](https://github.com/lemon-lime-honey)
 
 From :kr: Republic of Korea<br>
+Studied :zap: Electrical and Electronic Engineering :zap: at :school: SungKyunKwan Univ. :school:
 
 <div align="center">
   <br>
@@ -10,10 +11,6 @@ From :kr: Republic of Korea<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=lemon-lime-honey&hide_border=true&date_format=%5BY.%5Dn.j&background=003153&stroke=AEFF6E&ring=AEFF6Efire=EBA937&currStreakNum=AEFF6E&sideNums=AEFF6E&currStreakLabel=FFF700&sideLabels=FFF700&dates=FFF700">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=lemon-lime-honey&show_icons=true&hide=stars,issues&hide_title=true&rank_icon=github&title_color=fff700&text_color=aeff6e&icon_color=eba937&bg_color=003153" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemon-lime-honey&layout=compact&bg_color=003153&text_color=aeff6e&title_color=fff700" />
   <br>
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=artemisia8">
 </div>
@@ -37,6 +34,30 @@ From :kr: Republic of Korea<br>
     <br>
     <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-eba937?style=flat-square&logo=python&logoColor=3776ab"></a>
     <a href="https://www.raspberrypi.org"><img src="https://img.shields.io/badge/Raspberry%20Pi-eba937?style=flat-square&logo=raspberrypi&logoColor=A22846"></a>
+    <br><br>
+    <span>&#9889; &#9889; &#9889;</span>
+    <br><br>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lemon-lime-honey&bg_color=003153&color=aeff6e&title_color=fff700&line=aeff6e&point=aeff6e&custom_title=Contribution%20Graph">
+<div align="center">
+    <a href="https://github.com/lemon-lime-honey/TravelDog">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lemon-lime-honey&repo=TravelDog" />
+    </a>
+    <a href="https://github.com/lemon-lime-honey/keyboard_warrior">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lemon-lime-honey&repo=keyboard_warrior" />
+    </a>
+    <br>
+    <a href="https://github.com/lemon-lime-honey/recipes-share-site">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lemon-lime-honey&repo=recipes-share-site" />
+    </a>
+    <a href="https://github.com/lemon-lime-honey/recipe-remake">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lemon-lime-honey&repo=recipe-remake" />
+    </a>
+    <br>
+    <a href="https://github.com/lemon-lime-honey/flask-practice">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lemon-lime-honey&repo=flask-practice" />
+    </a>
+    <a href="https://github.com/lemon-lime-honey/TIL">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lemon-lime-honey&repo=TIL" />
+    </a>
+</div>
