@@ -1,7 +1,7 @@
 [![lemon-lime-honey](/image/header.png)](https://github.com/lemon-lime-honey)
 
 From :kr: Republic of Korea<br>
-Studied :zap: Electrical and Electronic Engineering :zap: at :school: SungKyunKwan Univ. :school:
+Studied :zap: Electronic and Electrical Engineering :zap: at :school: SungKyunKwan Univ. :school:
 
 <div align="center">
   <br>
